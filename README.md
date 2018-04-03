@@ -3,6 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
+![](https://i.imgur.com/HNm3OLl.png)
 
 
 ---
